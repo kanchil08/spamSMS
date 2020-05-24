@@ -28,7 +28,7 @@ logo = """
      /___/
 %sAuthor %s: %sKanchil ID
 %sGithub %s: %shttps://github.com/kanchil08
-"""%(kuning,hijau,merah,ungu,cyan,hijau,merah,ungu)
+"""%(cyan,biru,merah,ungu,biru,merah,ungu,)
 
 def main():
     os.system('clear')
@@ -249,7 +249,7 @@ logo = """
      /___/
 %sAuthor %s: %sKanchil ID
 %sGithub %s: %shttps://github.com/kanchil08
-"""%(kuning,hijau,merah,ungu,cyan,hijau,merah,ungu)
+"""%(cyan,biru,merah,ungu,biru,merah,ungu)
 
 def main():
     os.system('clear')
